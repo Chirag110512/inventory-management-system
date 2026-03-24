@@ -1,0 +1,9 @@
+id,name,category,quantity,price
+P001,Wireless Mouse,Electronics,45,599.0
+P002,USB Keyboard,Electronics,30,899.0
+P003,A4 Notebook,Stationery,120,45.0
+P004,Ballpoint Pen,Stationery,3,10.0
+P005,Office Chair,Furniture,8,4500.0
+P006,Desk Lamp,Electronics,4,799.0
+P007,Stapler,Stationery,25,150.0
+P008,Whiteboard,Furniture,2,2200.0
